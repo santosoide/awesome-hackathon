@@ -1,4 +1,4 @@
-### Ini adalah beberapa tools yang biasa digunakan oleh seorang/team developer untuk membantu dalam meningkatkan produktifitas coding:
+**Ini adalah beberapa tools yang biasa digunakan oleh seorang/team developer untuk membantu dalam meningkatkan produktifitas coding:**
 
 ### Versioning Tools:
 * [Git](https://git-scm.com/downloads)
